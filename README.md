@@ -187,10 +187,6 @@ home.html
 ```
 product.html
 ```
-Product
-products.html
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -336,10 +332,6 @@ products.html
 ```
 people.html
 ```
-people
-people.html
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -492,10 +484,6 @@ text-decoration: none;
 ```
 contact.html
 ```
-contact
-contact.html
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
